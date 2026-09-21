@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://jacobpark64.github.io/al-folio/sitemap.xml
+Sitemap: https://jacobpark64.github.io/sitemap.xml
